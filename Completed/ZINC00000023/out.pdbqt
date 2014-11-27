@@ -1,0 +1,240 @@
+MODEL 1
+REMARK VINA RESULT:      -5.3      0.000      0.000
+REMARK  Name = ZINC00000023
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       23.714  32.133  56.250  0.00  0.00    +0.258 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1       24.923  31.258  56.590  0.00  0.00    +0.135 C 
+BRANCH   2   3
+ATOM      3  O   LIG    1       24.889  30.919  57.977  0.00  0.00    -0.390 OA
+ATOM      4  H   LIG    1       24.028  31.059  58.396  0.00  0.00    +0.210 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   LIG    1       26.211  32.026  56.285  0.00  0.00    -0.047 C 
+BRANCH   5   6
+ATOM      6  N   LIG    1       26.074  32.715  54.995  0.00  0.00    +0.382 N 
+ATOM      7  H   LIG    1       25.848  32.043  54.277  0.00  0.00    -0.085 HD
+ATOM      8  H   LIG    1       25.339  33.403  55.056  0.00  0.00    -0.085 HD
+BRANCH   6  10
+ATOM      9  C   LIG    1       27.242  34.868  55.003  0.00  0.00    -0.014 C 
+ATOM     10  C   LIG    1       27.341  33.380  54.659  0.00  0.00    -0.078 C 
+ATOM     11  C   LIG    1       28.479  32.745  55.461  0.00  0.00    -0.014 C 
+ENDBRANCH   6  10
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1  12
+ATOM     12  O   LIG    1       23.104  31.656  55.050  0.00  0.00    -0.489 OA
+BRANCH  12  13
+ATOM     13  C   LIG    1       21.994  30.883  55.187  0.00  0.00    +0.124 A 
+ATOM     14  C   LIG    1       20.825  31.431  55.698  0.00  0.00    +0.046 A 
+ATOM     15  C   LIG    1       19.699  30.644  55.835  0.00  0.00    +0.004 A 
+ATOM     16  C   LIG    1       19.734  29.312  55.464  0.00  0.00    +0.001 A 
+ATOM     17  C   LIG    1       20.897  28.765  54.955  0.00  0.00    +0.007 A 
+ATOM     18  C   LIG    1       22.026  29.549  54.810  0.00  0.00    -0.002 A 
+BRANCH  18  19
+ATOM     19  C   LIG    1       23.291  28.953  54.249  0.00  0.00    +0.065 C 
+BRANCH  19  20
+ATOM     20  C   LIG    1       23.904  28.026  55.267  0.00  0.00    -0.030 C 
+ATOM     21  C   LIG    1       24.652  27.025  54.875  0.00  0.00    +0.004 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+TORSDOF 9
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -4.9      2.810      6.659
+REMARK  Name = ZINC00000023
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       23.720  31.923  55.632  0.00  0.00    +0.258 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1       22.289  32.171  56.115  0.00  0.00    +0.135 C 
+BRANCH   2   3
+ATOM      3  O   LIG    1       21.429  32.337  54.986  0.00  0.00    -0.390 OA
+ATOM      4  H   LIG    1       21.347  33.252  54.684  0.00  0.00    +0.210 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   LIG    1       22.253  33.437  56.974  0.00  0.00    -0.047 C 
+BRANCH   5   6
+ATOM      6  N   LIG    1       22.036  34.607  56.112  0.00  0.00    +0.382 N 
+ATOM      7  H   LIG    1       22.913  34.888  55.699  0.00  0.00    -0.085 HD
+ATOM      8  H   LIG    1       21.381  34.370  55.382  0.00  0.00    -0.085 HD
+BRANCH   6  10
+ATOM      9  C   LIG    1       20.625  35.149  58.039  0.00  0.00    -0.014 C 
+ATOM     10  C   LIG    1       21.496  35.713  56.915  0.00  0.00    -0.078 C 
+ATOM     11  C   LIG    1       22.651  36.516  57.517  0.00  0.00    -0.014 C 
+ENDBRANCH   6  10
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1  12
+ATOM     12  O   LIG    1       24.616  32.785  56.336  0.00  0.00    -0.489 OA
+BRANCH  12  13
+ATOM     13  C   LIG    1       25.914  32.790  55.930  0.00  0.00    +0.124 A 
+ATOM     14  C   LIG    1       26.534  31.602  55.572  0.00  0.00    +0.046 A 
+ATOM     15  C   LIG    1       27.852  31.610  55.160  0.00  0.00    +0.004 A 
+ATOM     16  C   LIG    1       28.553  32.801  55.104  0.00  0.00    +0.001 A 
+ATOM     17  C   LIG    1       27.938  33.986  55.461  0.00  0.00    +0.007 A 
+ATOM     18  C   LIG    1       26.617  33.984  55.868  0.00  0.00    -0.002 A 
+BRANCH  18  19
+ATOM     19  C   LIG    1       25.944  35.277  56.251  0.00  0.00    +0.065 C 
+BRANCH  19  20
+ATOM     20  C   LIG    1       26.510  36.402  55.424  0.00  0.00    -0.030 C 
+ATOM     21  C   LIG    1       26.095  37.630  55.616  0.00  0.00    +0.004 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+TORSDOF 9
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -4.9      2.124      4.930
+REMARK  Name = ZINC00000023
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       20.770  31.871  54.867  0.00  0.00    +0.258 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1       20.408  33.105  55.696  0.00  0.00    +0.135 C 
+BRANCH   2   3
+ATOM      3  O   LIG    1       21.419  34.102  55.533  0.00  0.00    -0.390 OA
+ATOM      4  H   LIG    1       21.076  34.977  55.303  0.00  0.00    +0.210 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   LIG    1       20.310  32.716  57.173  0.00  0.00    -0.047 C 
+BRANCH   5   6
+ATOM      6  N   LIG    1       21.657  32.480  57.707  0.00  0.00    +0.382 N 
+ATOM      7  H   LIG    1       22.279  32.229  56.953  0.00  0.00    -0.085 HD
+ATOM      8  H   LIG    1       21.994  33.318  58.156  0.00  0.00    -0.085 HD
+BRANCH   6  10
+ATOM      9  C   LIG    1       20.933  30.166  58.056  0.00  0.00    -0.014 C 
+ATOM     10  C   LIG    1       21.611  31.385  58.686  0.00  0.00    -0.078 C 
+ATOM     11  C   LIG    1       23.035  31.017  59.107  0.00  0.00    -0.014 C 
+ENDBRANCH   6  10
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1  12
+ATOM     12  O   LIG    1       22.177  31.858  54.623  0.00  0.00    -0.489 OA
+BRANCH  12  13
+ATOM     13  C   LIG    1       22.844  30.709  54.915  0.00  0.00    +0.124 A 
+ATOM     14  C   LIG    1       22.289  29.481  54.584  0.00  0.00    +0.046 A 
+ATOM     15  C   LIG    1       22.968  28.316  54.881  0.00  0.00    +0.004 A 
+ATOM     16  C   LIG    1       24.199  28.373  55.508  0.00  0.00    +0.001 A 
+ATOM     17  C   LIG    1       24.754  29.595  55.840  0.00  0.00    +0.007 A 
+ATOM     18  C   LIG    1       24.081  30.764  55.540  0.00  0.00    -0.002 A 
+BRANCH  18  19
+ATOM     19  C   LIG    1       24.689  32.096  55.896  0.00  0.00    +0.065 C 
+BRANCH  19  20
+ATOM     20  C   LIG    1       26.170  32.061  55.625  0.00  0.00    -0.030 C 
+ATOM     21  C   LIG    1       26.652  32.618  54.542  0.00  0.00    +0.004 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+TORSDOF 9
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -4.8      1.527      3.544
+REMARK  Name = ZINC00000023
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       23.776  31.164  54.733  0.00  0.00    +0.258 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1       24.085  31.761  56.108  0.00  0.00    +0.135 C 
+BRANCH   2   3
+ATOM      3  O   LIG    1       23.623  33.112  56.155  0.00  0.00    -0.390 OA
+ATOM      4  H   LIG    1       24.329  33.772  56.110  0.00  0.00    +0.210 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   LIG    1       25.595  31.730  56.350  0.00  0.00    -0.047 C 
+BRANCH   5   6
+ATOM      6  N   LIG    1       26.287  32.314  55.194  0.00  0.00    +0.382 N 
+ATOM      7  H   LIG    1       26.621  31.576  54.593  0.00  0.00    -0.085 HD
+ATOM      8  H   LIG    1       25.649  32.903  54.682  0.00  0.00    -0.085 HD
+BRANCH   6  10
+ATOM      9  C   LIG    1       28.723  32.332  55.449  0.00  0.00    -0.014 C 
+ATOM     10  C   LIG    1       27.427  33.117  55.660  0.00  0.00    -0.078 C 
+ATOM     11  C   LIG    1       27.487  34.424  54.868  0.00  0.00    -0.014 C 
+ENDBRANCH   6  10
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1  12
+ATOM     12  O   LIG    1       22.444  31.513  54.351  0.00  0.00    -0.489 OA
+BRANCH  12  13
+ATOM     13  C   LIG    1       21.442  30.722  54.817  0.00  0.00    +0.124 A 
+ATOM     14  C   LIG    1       21.536  29.342  54.703  0.00  0.00    +0.046 A 
+ATOM     15  C   LIG    1       20.516  28.541  55.178  0.00  0.00    +0.004 A 
+ATOM     16  C   LIG    1       19.402  29.112  55.765  0.00  0.00    +0.001 A 
+ATOM     17  C   LIG    1       19.306  30.486  55.879  0.00  0.00    +0.007 A 
+ATOM     18  C   LIG    1       20.326  31.293  55.411  0.00  0.00    -0.002 A 
+BRANCH  18  19
+ATOM     19  C   LIG    1       20.223  32.791  55.541  0.00  0.00    +0.065 C 
+BRANCH  19  20
+ATOM     20  C   LIG    1       18.773  33.197  55.532  0.00  0.00    -0.030 C 
+ATOM     21  C   LIG    1       18.351  34.140  56.337  0.00  0.00    +0.004 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+TORSDOF 9
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -4.8      2.697      4.483
+REMARK  Name = ZINC00000023
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   LIG    1       21.610  33.273  57.353  0.00  0.00    +0.258 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   LIG    1       21.445  34.751  56.990  0.00  0.00    +0.135 C 
+BRANCH   2   3
+ATOM      3  O   LIG    1       21.509  34.901  55.571  0.00  0.00    -0.390 OA
+ATOM      4  H   LIG    1       20.771  35.401  55.194  0.00  0.00    +0.210 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   LIG    1       22.567  35.564  57.640  0.00  0.00    -0.047 C 
+BRANCH   5   6
+ATOM      6  N   LIG    1       23.702  35.659  56.713  0.00  0.00    +0.382 N 
+ATOM      7  H   LIG    1       24.311  34.865  56.844  0.00  0.00    -0.085 HD
+ATOM      8  H   LIG    1       23.361  35.669  55.763  0.00  0.00    -0.085 HD
+BRANCH   6  10
+ATOM      9  C   LIG    1       25.854  36.782  56.382  0.00  0.00    -0.014 C 
+ATOM     10  C   LIG    1       24.449  36.896  56.978  0.00  0.00    -0.078 C 
+ATOM     11  C   LIG    1       23.719  38.079  56.340  0.00  0.00    -0.014 C 
+ENDBRANCH   6  10
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+ENDBRANCH   1   2
+BRANCH   1  12
+ATOM     12  O   LIG    1       22.941  32.854  57.047  0.00  0.00    -0.489 OA
+BRANCH  12  13
+ATOM     13  C   LIG    1       23.100  32.045  55.966  0.00  0.00    +0.124 A 
+ATOM     14  C   LIG    1       22.001  31.403  55.411  0.00  0.00    +0.046 A 
+ATOM     15  C   LIG    1       22.165  30.583  54.313  0.00  0.00    +0.004 A 
+ATOM     16  C   LIG    1       23.422  30.401  53.765  0.00  0.00    +0.001 A 
+ATOM     17  C   LIG    1       24.518  31.039  54.316  0.00  0.00    +0.007 A 
+ATOM     18  C   LIG    1       24.359  31.865  55.412  0.00  0.00    -0.002 A 
+BRANCH  18  19
+ATOM     19  C   LIG    1       25.553  32.565  56.009  0.00  0.00    +0.065 C 
+BRANCH  19  20
+ATOM     20  C   LIG    1       26.682  32.568  55.012  0.00  0.00    -0.030 C 
+ATOM     21  C   LIG    1       27.235  33.700  54.651  0.00  0.00    +0.004 C 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  12  13
+ENDBRANCH   1  12
+TORSDOF 9
+ENDMDL

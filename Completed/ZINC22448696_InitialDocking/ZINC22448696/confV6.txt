@@ -1,0 +1,14 @@
+receptor = vp24.pdbqt
+ligand = vp24Ligand.pdbqt
+
+out = D:\Dropbox\Dropbox\Protein Docking Lab\Protein Files\Results\GridBoxV1\Nov19\outV6.pdbqt
+
+center_x = 21.935
+center_y = 31.551
+center_z = 55.95
+
+size_x = 18.5
+size_y = 18.5
+size_z = 18.5
+
+exhaustiveness = 8
