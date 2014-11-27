@@ -1,0 +1,60 @@
+REMARK  Name = ZINC10254746
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK A  0        5.682   2.628   0.831  0.00  0.00    +0.219 A 
+ATOM      2  N   UNK A  0        4.477   2.123   1.062  0.00  0.00    -0.197 NA
+ATOM      3  C   UNK A  0        4.273   1.254   2.045  0.00  0.00    +0.156 A 
+ATOM      4  C   UNK A  0        5.365   0.879   2.847  0.00  0.00    +0.148 A 
+ATOM      5  C   UNK A  0        6.623   1.434   2.561  0.00  0.00    +0.167 A 
+ATOM      6  N   UNK A  0        7.492   0.897   3.478  0.00  0.00    -0.312 N 
+ATOM      7  C   UNK A  0        6.775   0.051   4.272  0.00  0.00    +0.201 A 
+ATOM      8  N   UNK A  0        5.529   0.039   3.899  0.00  0.00    -0.231 NA
+ATOM      9  N   UNK A  0        6.737   2.298   1.557  0.00  0.00    -0.195 NA
+ENDROOT
+BRANCH   6  10
+ATOM     10  C   UNK A  0        8.925   1.181   3.584  0.00  0.00    +0.084 C 
+ATOM     11  C   UNK A  0        9.716  -0.115   3.397  0.00  0.00    +0.030 C 
+ATOM     12  C   UNK A  0        9.228   1.768   4.964  0.00  0.00    +0.030 C 
+ENDBRANCH   6  10
+BRANCH   1  13
+ATOM     13  N   VAL A  1        5.841   3.532  -0.207  0.00  0.00    -0.308 N 
+ATOM     14  H   VAL A  1        5.082   3.772  -0.761  0.00  0.00    +0.149 HD
+BRANCH  13  15
+ATOM     15  CA  VAL A  1        7.155   4.124  -0.468  0.00  0.00    +0.101 C 
+BRANCH  15  17
+ATOM     16  CG1 VAL A  1        8.693   4.969  -2.247  0.00  0.00    +0.009 C 
+ATOM     17  CB  VAL A  1        7.357   4.272  -1.977  0.00  0.00    +0.005 C 
+ATOM     18  CG2 VAL A  1        7.363   2.888  -2.630  0.00  0.00    +0.009 C 
+ENDBRANCH  15  17
+BRANCH  15  19
+ATOM     19  C   VAL A  1        7.235   5.501   0.195  0.00  0.00    +0.178 C 
+BRANCH  19  20
+ATOM     20  O   VAL A  1        6.254   6.365  -0.383  0.00  0.00    -0.393 OA
+ATOM     21  H   VAL A  1        6.247   7.257  -0.010  0.00  0.00    +0.209 HD
+ENDBRANCH  19  20
+ENDBRANCH  15  19
+ENDBRANCH  13  15
+ENDBRANCH   1  13
+BRANCH   3  22
+ATOM     22  N   UNK A  0        3.012   0.733   2.279  0.00  0.00    -0.298 N 
+ATOM     23  H   UNK A  0        3.033  -0.260   2.156  0.00  0.00    +0.154 HD
+BRANCH  22  24
+ATOM     24  C   UNK A  0        1.933   1.145   1.501  0.00  0.00    +0.034 A 
+ATOM     25  C   UNK A  0        0.861   0.283   1.289  0.00  0.00    +0.024 A 
+ATOM     26  C   UNK A  0       -0.201   0.680   0.528  0.00  0.00    +0.018 A 
+ATOM     27  C   UNK A  0       -0.214   1.957  -0.043  0.00  0.00    +0.077 A 
+ATOM     28  C   UNK A  0        0.863   2.826   0.168  0.00  0.00    +0.057 A 
+ATOM     29 CL   UNK A  0        0.854   4.412  -0.537  0.00  0.00    -0.083 Cl
+ATOM     30  C   UNK A  0        1.930   2.417   0.939  0.00  0.00    +0.044 A 
+BRANCH  27  31
+ATOM     31  C   UNK A  0       -1.357   2.385  -0.870  0.00  0.00    +0.338 C 
+ATOM     32  O   UNK A  0       -1.367   3.494  -1.365  0.00  0.00    -0.245 OA
+BRANCH  31  33
+ATOM     33  O   UNK A  0       -2.390   1.545  -1.077  0.00  0.00    -0.477 OA
+ATOM     34  H   UNK A  0       -2.383   0.689  -0.695  0.00  0.00    +0.295 HD
+ENDBRANCH  31  33
+ENDBRANCH  27  31
+ENDBRANCH  22  24
+ENDBRANCH   3  22
+TORSDOF 10

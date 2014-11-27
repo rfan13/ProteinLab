@@ -1,0 +1,42 @@
+REMARK  Name = ZINC28570575
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK    1        0.127   0.993   2.862  0.00  0.00    +0.068 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  S   UNK    1       -0.862   1.671   1.500  0.00  0.00    -0.156 S 
+BRANCH   2   3
+ATOM      3  C   UNK    1       -0.013   1.086   0.008  0.00  0.00    +0.104 C 
+BRANCH   3   6
+ATOM      4  C   UNK    1       -2.423   1.284  -2.892  0.00  0.00    +0.003 A 
+ATOM      5  C   UNK    1       -1.750   0.825  -1.775  0.00  0.00    +0.004 A 
+ATOM      6  C   UNK    1       -0.742   1.585  -1.213  0.00  0.00    -0.035 A 
+ATOM      7  C   UNK    1       -0.398   2.801  -1.774  0.00  0.00    +0.042 A 
+ATOM      8  C   UNK    1       -1.068   3.259  -2.895  0.00  0.00    +0.124 A 
+ATOM      9  F   UNK    1       -0.732   4.447  -3.445  0.00  0.00    -0.205 F 
+ATOM     10  C   UNK    1       -2.081   2.499  -3.454  0.00  0.00    +0.038 A 
+ENDBRANCH   3   6
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C   UNK    1       -0.487   1.417   4.198  0.00  0.00    +0.005 C 
+BRANCH  11  12
+ATOM     12  C   UNK    1        0.347   0.845   5.346  0.00  0.00    +0.036 C 
+BRANCH  12  13
+ATOM     13  N   UNK    1        1.687   1.448   5.326  0.00  0.00    +0.387 N 
+ATOM     14  H   UNK    1        2.177   1.220   4.368  0.00  0.00    -0.089 HD
+ATOM     15  H   UNK    1        1.600   2.538   5.443  0.00  0.00    -0.089 HD
+ATOM     16  H   UNK    1        2.286   1.037   6.152  0.00  0.00    -0.089 HD
+ENDBRANCH  12  13
+BRANCH  12  17
+ATOM     17  C   UNK    1       -0.324   1.157   6.659  0.00  0.00    +0.290 C 
+ATOM     18  O   UNK    1        0.066   2.082   7.332  0.00  0.00    -0.253 OA
+BRANCH  17  19
+ATOM     19  O   UNK    1       -1.356   0.409   7.080  0.00  0.00    -0.482 OA
+ATOM     20  H   UNK    1       -1.658  -0.308   6.558  0.00  0.00    +0.295 HD
+ENDBRANCH  17  19
+ENDBRANCH  12  17
+ENDBRANCH  11  12
+ENDBRANCH   1  11
+TORSDOF 8

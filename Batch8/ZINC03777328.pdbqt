@@ -1,0 +1,70 @@
+REMARK  Name = ZINC03777328
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   PHE A  1       -1.336   9.780   0.983  0.00  0.00    +0.202 C 
+ATOM      2  N   PRO A  2       -2.433   9.422   1.679  0.00  0.00    -0.291 N 
+ATOM      3  CD  PRO A  2       -3.353  10.346   2.366  0.00  0.00    +0.108 C 
+ATOM      4  CG  PRO A  2       -4.021   9.490   3.472  0.00  0.00    +0.021 C 
+ATOM      5  CB  PRO A  2       -4.177   8.123   2.756  0.00  0.00    +0.033 C 
+ATOM      6  CA  PRO A  2       -2.910   8.046   1.878  0.00  0.00    +0.162 C 
+ATOM      7  O   PHE A  1       -0.648   8.931   0.456  0.00  0.00    -0.277 OA
+ENDROOT
+BRANCH   6   8
+ATOM      8  C   PRO A  2       -3.246   7.422   0.548  0.00  0.00    +0.234 C 
+ATOM      9  N   ARG A  3       -3.705   6.156   0.494  0.00  0.00    -0.304 N 
+ATOM     10  H   ARG A  3       -3.819   5.646   1.311  0.00  0.00    +0.149 HD
+ATOM     11  O   PRO A  2       -3.103   8.059  -0.474  0.00  0.00    -0.274 OA
+BRANCH   9  12
+ATOM     12  CA  ARG A  3       -4.031   5.550  -0.799  0.00  0.00    +0.136 C 
+BRANCH  12  13
+ATOM     13  C   ARG A  3       -5.438   5.923  -1.189  0.00  0.00    +0.245 C 
+ATOM     14  O   ARG A  3       -6.100   6.624  -0.461  0.00  0.00    -0.299 OA
+ENDBRANCH  12  13
+BRANCH  12  15
+ATOM     15  CB  ARG A  3       -3.919   4.028  -0.692  0.00  0.00    +0.033 C 
+BRANCH  15  16
+ATOM     16  CG  ARG A  3       -2.464   3.642  -0.420  0.00  0.00    +0.039 C 
+BRANCH  16  17
+ATOM     17  CD  ARG A  3       -2.351   2.120  -0.312  0.00  0.00    +0.196 C 
+BRANCH  17  18
+ATOM     18  NE  ARG A  3       -0.958   1.750  -0.051  0.00  0.00    -0.279 N 
+ATOM     19  HE  ARG A  3       -0.279   2.439   0.021  0.00  0.00    +0.258 HD
+BRANCH  18  20
+ATOM     20  CZ  ARG A  3       -0.612   0.427   0.085  0.00  0.00    +0.341 C 
+ATOM     21  NH2 ARG A  3       -1.585  -0.466  -0.025  0.00  0.00    -0.292 N 
+ATOM     22 HH21 ARG A  3       -2.547  -0.156  -0.204  0.00  0.00    +0.255 HD
+ATOM     23 HH22 ARG A  3       -1.378  -1.460   0.069  0.00  0.00    +0.255 HD
+BRANCH  20  24
+ATOM     24  NH1 ARG A  3        0.697   0.080   0.324  0.00  0.00    -0.292 N 
+ATOM     25 HH11 ARG A  3        0.941  -0.854   0.420  0.00  0.00    +0.255 HD
+ATOM     26 HH12 ARG A  3        1.376   0.768   0.397  0.00  0.00    +0.255 HD
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  12  15
+ENDBRANCH   9  12
+ENDBRANCH   6   8
+BRANCH   1  27
+ATOM     27  CA  PHE A  1       -0.963  11.235   0.860  0.00  0.00    +0.020 C 
+BRANCH  27  29
+ATOM     28  C   ACE A  0       -1.101  11.646  -1.522  0.00  0.00    -0.099 C 
+ATOM     29  N   PHE A  1       -0.190  11.442  -0.380  0.00  0.00    +0.385 N 
+ATOM     30  H1  PHE A  1        0.395  10.617  -0.556  0.00  0.00    -0.085 HD
+ATOM     31  H2  PHE A  1        0.408  12.269  -0.272  0.00  0.00    -0.085 HD
+ENDBRANCH  27  29
+BRANCH  27  32
+ATOM     32  CB  PHE A  1       -0.107  11.646   2.059  0.00  0.00    +0.028 C 
+BRANCH  32  33
+ATOM     33  CG  PHE A  1        0.163  13.127   2.000  0.00  0.00    -0.048 A 
+ATOM     34  CD2 PHE A  1        1.282  13.600   1.341  0.00  0.00    +0.003 A 
+ATOM     35  CE2 PHE A  1        1.527  14.959   1.282  0.00  0.00    +0.000 A 
+ATOM     36  CZ  PHE A  1        0.659  15.845   1.892  0.00  0.00    +0.000 A 
+ATOM     37  CE1 PHE A  1       -0.457  15.372   2.556  0.00  0.00    +0.000 A 
+ATOM     38  CD1 PHE A  1       -0.705  14.013   2.610  0.00  0.00    +0.003 A 
+ENDBRANCH  32  33
+ENDBRANCH  27  32
+ENDBRANCH   1  27
+TORSDOF 13

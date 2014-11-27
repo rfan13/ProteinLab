@@ -1,0 +1,79 @@
+REMARK  Name = ZINC03973581
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK A  0       -5.016  -0.035  -0.226  0.00  0.00    -0.063 A 
+ATOM      2  C   UNK A  0       -3.789  -0.560   0.146  0.00  0.00    +0.002 A 
+ATOM      3  C   UNK A  0       -2.695   0.265   0.300  0.00  0.00    +0.014 A 
+ATOM      4  C   UNK A  0       -2.822   1.639   0.091  0.00  0.00    +0.044 A 
+ATOM      5  C   UNK A  0       -4.068   2.170  -0.287  0.00  0.00    -0.005 A 
+ATOM      6  C   UNK A  0       -5.160   1.321  -0.442  0.00  0.00    +0.011 A 
+ENDROOT
+BRANCH   5   7
+ATOM      7  C   UNK A  0       -4.218   3.626  -0.519  0.00  0.00    -0.014 A 
+ATOM      8  C   UNK A  0       -4.939   4.408   0.384  0.00  0.00    +0.009 A 
+ATOM      9  C   UNK A  0       -5.075   5.763   0.163  0.00  0.00    +0.001 A 
+ATOM     10  C   UNK A  0       -4.498   6.347  -0.951  0.00  0.00    +0.000 A 
+ATOM     11  C   UNK A  0       -3.782   5.576  -1.849  0.00  0.00    +0.004 A 
+ATOM     12  C   UNK A  0       -3.634   4.221  -1.636  0.00  0.00    -0.043 A 
+ATOM     13  C   UNK A  0       -2.849   3.384  -2.613  0.00  0.00    +0.044 C 
+ENDBRANCH   5   7
+BRANCH   4  14
+ATOM     14  C   UNK A  0       -1.656   2.528   0.259  0.00  0.00    +0.245 C 
+ATOM     15  N   MET A  1       -0.464   2.014   0.621  0.00  0.00    -0.298 N 
+ATOM     16  H   MET A  1       -0.372   1.060   0.771  0.00  0.00    +0.150 HD
+ATOM     17  O   UNK A  0       -1.770   3.723   0.071  0.00  0.00    -0.270 OA
+BRANCH  15  18
+ATOM     18  CA  MET A  1        0.695   2.895   0.783  0.00  0.00    +0.183 C 
+BRANCH  18  19
+ATOM     19  C   MET A  1        1.352   3.112  -0.556  0.00  0.00    +0.325 C 
+ATOM     20  O   MET A  1        0.898   2.585  -1.544  0.00  0.00    -0.249 OA
+BRANCH  19  21
+ATOM     21  OXT MET A  1        2.441   3.891  -0.652  0.00  0.00    -0.479 OA
+ATOM     22  HXT MET A  1        2.793   4.300   0.114  0.00  0.00    +0.295 HD
+ENDBRANCH  19  21
+ENDBRANCH  18  19
+BRANCH  18  23
+ATOM     23  CB  MET A  1        1.697   2.250   1.743  0.00  0.00    +0.044 C 
+BRANCH  23  24
+ATOM     24  CG  MET A  1        1.072   2.144   3.136  0.00  0.00    +0.071 C 
+BRANCH  24  25
+ATOM     25  SD  MET A  1        2.259   1.379   4.274  0.00  0.00    -0.164 S 
+ATOM     26  CE  MET A  1        1.377   1.326   5.858  0.00  0.00    +0.084 C 
+ENDBRANCH  24  25
+ENDBRANCH  23  24
+ENDBRANCH  18  23
+ENDBRANCH  15  18
+ENDBRANCH   4  14
+BRANCH   1  27
+ATOM     27  C   UNK A  0       -6.201  -0.950  -0.396  0.00  0.00    -0.043 C 
+BRANCH  27  28
+ATOM     28  N   UNK A  0       -6.345  -1.278  -1.830  0.00  0.00    +0.382 N 
+ATOM     29  H   UNK A  0       -6.203  -0.424  -2.383  0.00  0.00    -0.081 HD
+BRANCH  28  30
+ATOM     30  C   UNK A  0       -7.702  -1.801  -2.095  0.00  0.00    -0.078 C 
+BRANCH  30  31
+ATOM     31  C   UNK A  0       -8.677  -0.624  -2.157  0.00  0.00    -0.019 C 
+BRANCH  31  33
+ATOM     32  C   UNK A  0      -11.061   0.026  -2.527  0.00  0.00    +0.004 C 
+ATOM     33  C   UNK A  0      -10.101  -1.151  -2.345  0.00  0.00    -0.005 C 
+ENDBRANCH  31  33
+ENDBRANCH  30  31
+ENDBRANCH  28  30
+BRANCH  28  34
+ATOM     34  C   UNK A  0       -5.331  -2.279  -2.223  0.00  0.00    -0.078 C 
+BRANCH  34  35
+ATOM     35  C   UNK A  0       -5.354  -2.433  -3.745  0.00  0.00    -0.015 C 
+BRANCH  35  36
+ATOM     36  C   UNK A  0       -4.295  -3.451  -4.171  0.00  0.00    -0.013 C 
+ATOM     37  C   UNK A  0       -2.903  -2.908  -3.840  0.00  0.00    +0.003 C 
+ATOM     38  C   UNK A  0       -1.844  -3.926  -4.266  0.00  0.00    +0.000 C 
+ATOM     39  C   UNK A  0       -1.950  -4.173  -5.772  0.00  0.00    +0.000 C 
+ATOM     40  C   UNK A  0       -3.341  -4.716  -6.103  0.00  0.00    +0.000 C 
+ATOM     41  C   UNK A  0       -4.401  -3.698  -5.677  0.00  0.00    +0.003 C 
+ENDBRANCH  35  36
+ENDBRANCH  34  35
+ENDBRANCH  28  34
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 16
